@@ -1,0 +1,41 @@
+Time resolution is 1 ps
+testbench.u_ram.reset at time 1218750.0 ps WARNING: 200 us is required before RST_N goes inactive.
+testbench.u_ram.cmd_task at time 1845412.0 ps WARNING: 500 us is required after RST_N goes inactive before CKE goes active.
+testbench.u_ram.cmd_task: at time 2192287.0 ps INFO: Load Mode 2
+testbench.u_ram.cmd_task: at time 2192287.0 ps INFO: Load Mode 2 Partial Array Self Refresh = Bank 0-7
+testbench.u_ram.cmd_task: at time 2192287.0 ps INFO: Load Mode 2 CAS Write Latency =           5
+testbench.u_ram.cmd_task: at time 2192287.0 ps INFO: Load Mode 2 Auto Self Refresh = Disabled
+testbench.u_ram.cmd_task: at time 2192287.0 ps INFO: Load Mode 2 Self Refresh Temperature = Normal
+testbench.u_ram.cmd_task: at time 2192287.0 ps INFO: Load Mode 2 Dynamic ODT = Disabled
+testbench.u_ram.cmd_task: at time 2217287.0 ps INFO: Load Mode 3
+testbench.u_ram.cmd_task: at time 2217287.0 ps INFO: Load Mode 3 MultiPurpose Register Select = Pre-defined pattern
+testbench.u_ram.cmd_task: at time 2217287.0 ps INFO: Load Mode 3 MultiPurpose Register Enable = Disabled
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 DLL Enable = Enabled
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 Output Drive Strength =          40 Ohm
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 ODT Rtt = Disabled
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 Additive Latency = 0
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 Write Levelization = Disabled
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 TDQS Enable = Disabled
+testbench.u_ram.cmd_task: at time 2242287.0 ps INFO: Load Mode 1 Qoff = Enabled
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0 Burst Length =  8
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0 Burst Order = Sequential
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0 CAS Latency =           5
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0 DLL Reset = Reset DLL
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0 Write Recovery =           5
+testbench.u_ram.cmd_task: at time 2267287.0 ps INFO: Load Mode 0 Power Down Mode = DLL off
+testbench.u_ram.cmd_task: at time 2342287.0 ps INFO: ZQ        long = 1
+testbench.u_ram.cmd_task: at time 2342287.0 ps INFO: Initialization Sequence is complete
+testbench.u_ram.cmd_task: at time 5542287.0 ps INFO: Load Mode 3
+testbench.u_ram.cmd_task: at time 5542287.0 ps INFO: Load Mode 3 MultiPurpose Register Select = Pre-defined pattern
+testbench.u_ram.cmd_task: at time 5542287.0 ps INFO: Load Mode 3 MultiPurpose Register Enable = Enabled
+testbench.u_ram.cmd_task: at time 5617287.0 ps INFO: Read      bank 0 col 000, auto precharge 0
+testbench.u_ram.data_task: at time 5631350.0 ps READ @ DQS MultiPurpose Register 0, col = 0,  data = 0
+testbench.u_ram.data_task: at time 5632912.0 ps READ @ DQS MultiPurpose Register 0, col = 1,  data = 1
+testbench.u_ram.data_task: at time 5634475.0 ps READ @ DQS MultiPurpose Register 0, col = 2,  data = 0
+testbench.u_ram.data_task: at time 5636037.0 ps READ @ DQS MultiPurpose Register 0, col = 3,  data = 1
+testbench.u_ram.data_task: at time 5637600.0 ps READ @ DQS MultiPurpose Register 0, col = 4,  data = 1
+testbench.u_ram.data_task: at time 5639162.0 ps READ @ DQS MultiPurpose Register 0, col = 5,  data = 0
+testbench.u_ram.data_task: at time 5640725.0 ps READ @ DQS MultiPurpose Register 0, col = 6,  data = 1
+testbench.u_ram.data_task: at time 5642287.0 ps READ @ DQS MultiPurpose Register 0, col = 7,  data = 0
